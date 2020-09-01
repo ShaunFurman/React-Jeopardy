@@ -9,4 +9,4 @@ function Welcome(props){
     );
 }
 
-export default Welcome;
+export default Welcome
